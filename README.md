@@ -1,4 +1,4 @@
-# Product Metadata Extraction by Browser based web scraping tool (Amazon Nova Act)
+# Web Product Metadata Extraction by your desktop Browser as web scraping tool (Amazon Nova Act - aka Computer Use)
 
 A Python web scraping tool that uses Amazon Nova Act (as of 2025 August, Nova Act is in public preview for user with USA IP address to apply for API Key) to automatically extract comprehensive product information from the Goyard luxury goods website.
 
