@@ -1,6 +1,6 @@
 # Goyard Product Metadata Extraction Tool
 
-A Python web scraping tool that uses Amazon Nova Act to automatically extract comprehensive product information from the Goyard luxury goods website.
+A Python web scraping tool that uses Amazon Nova Act (currenly in public preview for user with USA IP address to apply for API Key) to automatically extract comprehensive product information from the Goyard luxury goods website.
 
 ## 🎯 Features
 
